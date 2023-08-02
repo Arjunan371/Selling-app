@@ -96,7 +96,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
         count = 0
         swipe = ""
     }
-    
+    //
     //MARK: SwipeGestureMethod
     @objc func respondToSwipeGesture(gesture: UIGestureRecognizer) {
         
